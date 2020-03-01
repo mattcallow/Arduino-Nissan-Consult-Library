@@ -18,7 +18,7 @@
 #define ConsultRegister_h
 
 // Include default arduino stuffs
-#include "WProgram.h"
+#include "Arduino.h"
 #include "ConsultConversionFunctions.h"
 
 class ConsultRegister {
