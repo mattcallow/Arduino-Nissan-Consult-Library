@@ -13,7 +13,6 @@
   let me know what for!  Its always cool to hear when people
   find your code useful.
 **/
-#include "WProgram.h"
 #include "ConsultRegister.h"
 
 // Default Constructor
