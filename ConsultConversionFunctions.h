@@ -12,7 +12,7 @@
 #define ConsultConversionFunctions_h
 
 // Include default arduino stuffs
-#include "WProgram.h"
+#include "Arduino.h"
 
 class ConsultConversionFunctions
 {
