@@ -18,7 +18,7 @@
 #define ConsultErrorCode_h
 
 // Include default arduino stuffs
-#include "WProgram.h"
+#include "Arduino.h"
 
 class ConsultErrorCode
 {
