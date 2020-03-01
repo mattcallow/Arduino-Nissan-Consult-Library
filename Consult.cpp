@@ -14,7 +14,7 @@
   find your code useful.
 **/
 
-#include "WProgram.h"
+#include "Arduino.h"
 #include "Consult.h"
 
 // -- Setup Methods --
