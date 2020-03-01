@@ -14,7 +14,6 @@
   find your code useful.
 **/
 
-#include "WProgram.h"
 #include "ConsultErrorCode.h"
 
 // Default Constructor
